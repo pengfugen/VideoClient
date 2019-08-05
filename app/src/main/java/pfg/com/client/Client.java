@@ -15,7 +15,7 @@ public class Client {
     private static Client mClient;
     private static Socket mSocket;
     // 要连接的服务器IP地址
-    private static final String HOST_ADDRESS = "192.168.100.50"; //客户端的IP地址(设置->手机状态->IP)
+    private static final String HOST_ADDRESS = "192.168.100.86"; //客户端的IP地址(设置->手机状态->IP)
     // 要连接的服务器端口号
     private static final int HOST_PORT = 12580;
 
